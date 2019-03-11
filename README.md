@@ -15,9 +15,11 @@ Todo:
 Questions:
 1. How do we decide the right lambda for regularization (cross validation?)
 2. How do we decide the learning parameter for gradient descent?
+3. Is inference a misnomer in Sagemaker? Inference implies predicting in sagemaker, yet in statistics it seems like a synonym for training in ML.
 
 Notes:
-1. I'll have to come back to Bayesian vs Frequentist far far later in the future
+1. I'll have to come back to Bayesian vs Frequentist far far later in the future. Will need a concrete example.
+2. Expand on the least squares method in my own words. 
 
 
 
